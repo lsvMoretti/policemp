@@ -36,3 +36,5 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Custom Character Service Interface](Client%20Services/Interfaces/ICustomCharacterService.cs)
 - [Feature Service](Client%20Services/FeatureService.cs)
   - [Feature Service Interface](Client%20Services/Interfaces/IFeatureService.cs)
+- [Permission Service](Client%20Services/PermissionService.cs)
+  - [Permission Service Interface](Client%20Services/Interfaces/IPermissionService.cs)
