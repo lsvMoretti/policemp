@@ -52,3 +52,4 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Roleplay Commands](Server%20Code/Controllers/Commands/RoleplayCommands.cs)
 - [Ace Controller](Server%20Code/Controllers/AceController.cs)
 - [Backup Controller](Server%20Code/Controllers/BackupController.cs)
+- [Custom Character Controller](Server%20Code/Controllers/CustomCharacterController.cs)
