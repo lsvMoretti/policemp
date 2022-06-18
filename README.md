@@ -56,3 +56,5 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Flashbang Controller](Server%20Code/Controllers/FlashbangController.cs)
 - [Player Info Controller](Server%20Code/Controllers/PlayerInfoController.cs)
 - [Player Service Controller](Server%20Code/Controllers/PlayerServiceController.cs)
+- [Time & Weather Controller](Server%20Code/Controllers/TimeWeatherController.cs)
+- [Added WhatThreeWord Controller](Server%20Code/Controllers/WhatThreeWordsController.cs)
