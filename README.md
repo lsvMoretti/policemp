@@ -2,16 +2,22 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 
 **No support or help shall be given. Code is uploaded *as is*.**
 
+----
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-- [Client Side Code](#client-side-code)
-- [Client Side Services & Interfaces](#client-side-services--interfaces)
+  - [- Extensions](#--extensions)
+- [Client Side](#client-side)
+  - [Client Side Code](#client-side-code)
+  - [- What Three Word Script](#--what-three-word-script)
+  - [Client Side Services & Interfaces](#client-side-services--interfaces)
+  - [- Vehicle Info Service Interface](#--vehicle-info-service-interface)
+  - [Client Side Extensions](#client-side-extensions)
 - [Server Sided Code](#server-sided-code)
   - [Controllers (Scripts)](#controllers-scripts)
   - [Extensions](#extensions)
-
-# Client Side Code
-
+----
+# Client Side 
+## Client Side Code
 - [Anticheat Systems](Client%20Code/Anticheat/)
   - [Blacklisted Weapons](Client%20Code/Anticheat/BlacklistWeapons.cs)
   - [Health Check](Client%20Code/Anticheat/HealthCheck.cs)
@@ -32,9 +38,8 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Weapon Fire Select](Client%20Code/Weapons/FireModeSelect.cs)
 - [Weather Script](Client%20Code/Weather/WeatherScript.cs)
 - [What Three Word Script](Client%20Code/WhatThreeWord/WhatThreeWordScript.cs)
-
-# Client Side Services & Interfaces
-
+----
+## Client Side Services & Interfaces
 - [Custom Character Service](Client%20Services/CustomCharacterService.cs)
   - [Custom Character Service Interface](Client%20Services/Interfaces/ICustomCharacterService.cs)
 - [Feature Service](Client%20Services/FeatureService.cs)
@@ -45,7 +50,11 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Player Service Interface](Client%20Services/Interfaces/IPlayerService.cs)
 - [Vehicle Info Service](Client%20Services/VehicleInfoService.cs)
   - [Vehicle Info Service Interface](Client%20Services/Interfaces/IVehicleInfoService.cs)
+----
+## Client Side Extensions
+- [Vector3 Extension](Client%20Extensions/Vector3Extension.cs)
 
+----
 # Server Sided Code
 ## Controllers (Scripts)
 
@@ -62,8 +71,8 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Time & Weather Controller](Server%20Code/Controllers/TimeWeatherController.cs)
 - [Added WhatThreeWord Controller](Server%20Code/Controllers/WhatThreeWordsController.cs)
 
+----
 ## Extensions
-
 - [Entity Extension](Server%20Code/Extensions/EntityExtension.cs)
 - [Enum Extension](Server%20Code/Extensions/EnumExtension.cs)
 - [Vector3 Extension](Server%20Code/Extensions/Vector3Extension.cs)
