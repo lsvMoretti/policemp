@@ -24,3 +24,5 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Civ Armoury](Client%20Code/Civ/CivArmoury.cs)
 - [Other Commands (/shuff)](Client%20Code/Commands/OtherCommands.cs)
 - [Roleplay Commands (/me /do)](Client%20Code/RoleplayCommands/RoleplayCommands.cs)
+- [Weapon Fire Select](Client%20Code/Weapons/FireModeSelect.cs)
+- [Flashbang Script](Client%20Code/Weapons/Flashbang.cs)
