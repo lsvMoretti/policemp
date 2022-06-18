@@ -38,3 +38,5 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Feature Service Interface](Client%20Services/Interfaces/IFeatureService.cs)
 - [Permission Service](Client%20Services/PermissionService.cs)
   - [Permission Service Interface](Client%20Services/Interfaces/IPermissionService.cs)
+- [Player Service](Client%20Services/PlayerService.cs)
+  - [Player Service Interface](Client%20Services/Interfaces/IPlayerService.cs)
