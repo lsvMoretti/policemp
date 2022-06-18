@@ -12,10 +12,12 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 
 [Fuel System](Client%20Code/Fuel/FuelScript.cs)
 
-[Anticheat - Blacklisted Weapons](Client%20Code/Anticheat/BlacklistWeapons.cs)
-
-[Anticheat - Health Check](Client%20Code/Anticheat/HealthCheck.cs)
-
-[Anticheat - Skin Check](Client%20Code/Anticheat/SkinCheck.cs)
-
 [Armoury System](Client%20Code/Armoury/Armoury.cs) | [Armoury System Interface](Client%20Code/Armoury/IAmoury.cs)
+
+## Anticheat
+
+[Blacklisted Weapons](Client%20Code/Anticheat/BlacklistWeapons.cs)
+
+[Health Check](Client%20Code/Anticheat/HealthCheck.cs)
+
+[Skin Check](Client%20Code/Anticheat/SkinCheck.cs)
