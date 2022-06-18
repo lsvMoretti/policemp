@@ -5,6 +5,7 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [Client Side Code](#client-side-code)
+- [Client Side Services & Interfaces](#client-side-services--interfaces)
 
 # Client Side Code
 
@@ -28,3 +29,10 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Flashbang Script](Client%20Code/Weapons/Flashbang.cs)
 - [Weather Script](Client%20Code/Weather/WeatherScript.cs)
 - [What Three Word Script](Client%20Code/WhatThreeWord/WhatThreeWordScript.cs)
+
+# Client Side Services & Interfaces
+
+- [Custom Character Service](Client%20Services/CustomCharacterService.cs)
+  - [Custom Character Service Interface](Client%20Services/Interfaces/ICustomCharacterService.cs)
+- [Feature Service](Client%20Services/FeatureService.cs)
+  - [Feature Service Interface](Client%20Services/Interfaces/IFeatureService.cs)
