@@ -21,3 +21,4 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Skin Check](Client%20Code/Anticheat/SkinCheck.cs)
 - [Boot System](Client%20Code/Boot/BootSystem.cs)
   - [Boot System Interface](Client%20Code/Boot/IBootSystem.cs)
+- [Civ Armoury](Client%20Code/Civ/CivArmoury.cs)
