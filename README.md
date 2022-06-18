@@ -23,3 +23,4 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Boot System Interface](Client%20Code/Boot/IBootSystem.cs)
 - [Civ Armoury](Client%20Code/Civ/CivArmoury.cs)
 - [Other Commands (/shuff)](Client%20Code/Commands/OtherCommands.cs)
+- [Roleplay Commands (/me /do)](Client%20Code/RoleplayCommands/RoleplayCommands.cs)
