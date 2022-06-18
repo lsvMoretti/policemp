@@ -26,3 +26,4 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Roleplay Commands (/me /do)](Client%20Code/RoleplayCommands/RoleplayCommands.cs)
 - [Weapon Fire Select](Client%20Code/Weapons/FireModeSelect.cs)
 - [Flashbang Script](Client%20Code/Weapons/Flashbang.cs)
+- [Weather Script](Client%20Code/Weather/WeatherScript.cs)
