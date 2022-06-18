@@ -40,3 +40,5 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Permission Service Interface](Client%20Services/Interfaces/IPermissionService.cs)
 - [Player Service](Client%20Services/PlayerService.cs)
   - [Player Service Interface](Client%20Services/Interfaces/IPlayerService.cs)
+- [Vehicle Info Service](Client%20Services/VehicleInfoService.cs)
+  - [Vehicle Info Service Interface](Client%20Services/Interfaces/IVehicleInfoService.cs)
