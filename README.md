@@ -1,8 +1,8 @@
-# PoliceMP Code
-
 All code written in this repo was written and created by **Unsociable / Moretti (lsvMoretti on Github)**. Any code written by any other developer has been removed. This code was written for a FiveM British Emergency Server.
 
-- [PoliceMP Code](#policemp-code)
+# Table of Contents
+
+- [Table of Contents](#table-of-contents)
 - [Client Side Code](#client-side-code)
   - [Anticheat](#anticheat)
 
