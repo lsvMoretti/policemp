@@ -4,9 +4,7 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 
 # Client Side Code
 
-[Spawn Script](Client%20Code/Spawn/SpawnScript.cs)
-
-[Spawn Script Interface](Client%20Code/Spawn/ISpawnScript.cs)
+[Spawn Script](Client%20Code/Spawn/SpawnScript.cs) | [Spawn Script Interface](Client%20Code/Spawn/ISpawnScript.cs)
 
 [Pointing Feature](Client%20Code/Pointing/Pointing.cs)
 
@@ -19,3 +17,5 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 [Anticheat - Health Check](Client%20Code/Anticheat/HealthCheck.cs)
 
 [Anticheat - Skin Check](Client%20Code/Anticheat/SkinCheck.cs)
+
+[Armoury System](Client%20Code/Armoury/Armoury.cs) | [Armoury System Interface](Client%20Code/Armoury/IAmoury.cs)
