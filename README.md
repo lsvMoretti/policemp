@@ -55,3 +55,4 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Custom Character Controller](Server%20Code/Controllers/CustomCharacterController.cs)
 - [Flashbang Controller](Server%20Code/Controllers/FlashbangController.cs)
 - [Player Info Controller](Server%20Code/Controllers/PlayerInfoController.cs)
+- [Player Service Controller](Server%20Code/Controllers/PlayerServiceController.cs)
