@@ -13,3 +13,9 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 [Hud System (Including Seatbelt / Speed Limiter)](Client%20Code/HUD/Hud.cs)
 
 [Fuel System](Client%20Code/Fuel/FuelScript.cs)
+
+[Anticheat - Blacklisted Weapons](Client%20Code/Anticheat/BlacklistWeapons.cs)
+
+[Anticheat - Health Check](Client%20Code/Anticheat/HealthCheck.cs)
+
+[Anticheat - Skin Check](Client%20Code/Anticheat/SkinCheck.cs)
