@@ -86,4 +86,5 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 # To-Do
 - Server Side Extensions
 - Shared Scripts
+- Discord Bot
 - Callout System
