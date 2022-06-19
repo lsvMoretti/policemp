@@ -5,19 +5,18 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 ----
 # Table of Contents
 - [Table of Contents](#table-of-contents)
-  - [- Extensions](#--extensions)
-- [Client Side](#client-side)
-  - [Client Side Code](#client-side-code)
-  - [- What Three Word Script](#--what-three-word-script)
+- [Client Side Code](#client-side-code)
+  - [Client Side Scripts](#client-side-scripts)
   - [Client Side Services & Interfaces](#client-side-services--interfaces)
-  - [- Vehicle Info Service Interface](#--vehicle-info-service-interface)
   - [Client Side Extensions](#client-side-extensions)
 - [Server Sided Code](#server-sided-code)
   - [Controllers (Scripts)](#controllers-scripts)
   - [Extensions](#extensions)
+- [To-Do](#to-do)
+
 ----
-# Client Side 
-## Client Side Code
+# Client Side Code
+## Client Side Scripts
 - [Anticheat Systems](Client%20Code/Anticheat/)
   - [Blacklisted Weapons](Client%20Code/Anticheat/BlacklistWeapons.cs)
   - [Health Check](Client%20Code/Anticheat/HealthCheck.cs)
@@ -40,6 +39,7 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Weapon Fire Select](Client%20Code/Weapons/FireModeSelect.cs)
 - [Weather Script](Client%20Code/Weather/WeatherScript.cs)
 - [What Three Word Script](Client%20Code/WhatThreeWord/WhatThreeWordScript.cs)
+
 ----
 ## Client Side Services & Interfaces
 - [Custom Character Service](Client%20Services/CustomCharacterService.cs)
@@ -52,6 +52,8 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Player Service Interface](Client%20Services/Interfaces/IPlayerService.cs)
 - [Vehicle Info Service](Client%20Services/VehicleInfoService.cs)
   - [Vehicle Info Service Interface](Client%20Services/Interfaces/IVehicleInfoService.cs)
+
+
 ----
 ## Client Side Extensions
 - [Vector3 Extension](Client%20Extensions/Vector3Extension.cs)
@@ -79,3 +81,9 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Entity Extension](Server%20Code/Extensions/EntityExtension.cs)
 - [Enum Extension](Server%20Code/Extensions/EnumExtension.cs)
 - [Vector3 Extension](Server%20Code/Extensions/Vector3Extension.cs)
+
+----
+# To-Do
+- Server Side Extensions
+- Shared Scripts
+- Callout System
