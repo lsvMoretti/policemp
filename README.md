@@ -14,6 +14,7 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Extensions](#extensions)
   - [- Vector3 Extension](#--vector3-extension)
 - [Shared Code](#shared-code)
+  - [- User Role](#--user-role)
 - [To-Do](#to-do)
 
 ----
@@ -99,9 +100,22 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [User Division](Shared%20Code/Enums/UserDivision.cs)
   - [Vehicle Data Class](Shared%20Code/Enums/VehicleDataClass.cs)
 - [Models](Shared%20Code/Models/)
-
+  - [Weather](Shared%20Code/Models/Weather/)
+    - [Clouds](Shared%20Code/Models/Weather/Clouds.cs)
+    - [ConvertTemp](Shared%20Code/Models/Weather/ConvertTemp.cs)
+    - [Coord](Shared%20Code/Models/Weather/Coord.cs)
+    - [Main](Shared%20Code/Models/Weather/Main.cs)
+    - [OpenWeather](Shared%20Code/Models/Weather/OpenWeather.cs)
+    - [Sys](Shared%20Code/Models/Weather/Sys.cs)
+    - [Weather](Shared%20Code/Models/Weather/Weather.cs)
+    - [Wind](Shared%20Code/Models/Weather/Wind.cs)
+  - [Custom Character](Shared%20Code/Models/CustomCharacter.cs)
+  - [Player Info](Shared%20Code/Models/PlayerInfo.cs)
+  - [Position List](Shared%20Code/Models/PositionList.cs)
+  - [Road Management Item](Shared%20Code/Models/RoadManagementItem.cs)
+  - [User Aces](Shared%20Code/Models/UserAces.cs)
+  - [User Role](Shared%20Code/Models/UserRole.cs)
 ----
 # To-Do
-- Shared Scripts
 - Discord Bot
 - Callout System
