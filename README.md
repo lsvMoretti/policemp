@@ -12,9 +12,8 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Server Sided Code](#server-sided-code)
   - [Controllers (Scripts)](#controllers-scripts)
   - [Extensions](#extensions)
-  - [- Vector3 Extension](#--vector3-extension)
+  - [Services](#services)
 - [Shared Code](#shared-code)
-  - [- User Role](#--user-role)
 - [To-Do](#to-do)
 
 ----
@@ -84,6 +83,32 @@ All code written in this repo was written and created by **Unsociable / Moretti 
 - [Entity Extension](Server%20Code/Extensions/EntityExtension.cs)
 - [Enum Extension](Server%20Code/Extensions/EnumExtension.cs)
 - [Vector3 Extension](Server%20Code/Extensions/Vector3Extension.cs)
+
+----
+## Services
+- [Callouts](Server%20Code/Services/Callouts/)
+  - [Callout Types](Server%20Code/Services/Callouts/CalloutTypes)
+    - [Broken Down Vehicle](Server%20Code/Services/Callouts/CalloutTypes/BrokenDownVehicle.cs)
+    - [Domestic Abuse](Server%20Code/Services/Callouts/CalloutTypes/DomesticAbuse.cs)
+    - [Stabbing](Server%20Code/Services/Callouts/CalloutTypes/Stabbing.cs)
+    - [Vehicle Break In](Server%20Code/Services/Callouts/CalloutTypes/VehicleBreakIn.cs)
+  - [Callout](Server%20Code/Services/Callouts/Callout.cs)
+  - [Callout Manager](Server%20Code/Services/Callouts/CalloutManager.cs)
+  - [Callout Manager Builder](Server%20Code/Services/Callouts/CalloutManagerBuilder.cs)
+  - [Callout Options](Server%20Code/Services/Callouts/CalloutOptions.cs)
+  - [ICallout](Server%20Code/Services/Callouts/ICallout.cs)
+  - [Service Collection Extension](Server%20Code/Services/Callouts/ServiceCollectionExtension.cs)
+- [Activity Service](Server%20Code/Services/ActivityService.cs)
+- [Feature Service](Server%20Code/Services/FeatureService.cs)
+  - [IFeature Service](Server%20Code/Services/Interfaces/IFeatureService.cs)
+- [Permission Service](Server%20Code/Services/PermissionService.cs)
+  - [IPermission Service](Server%20Code/Services/Interfaces/IPermissionService.cs)
+- [Random Entity Service](Server%20Code/Services/RandomEntityService.cs)
+- [Sonoran Service](Server%20Code/Services/SonoranService.cs)
+  - [ISonoran Service](Server%20Code/Services/Interfaces/ISonoranService.cs)
+- [Tick Service](Server%20Code/Services/TickService.cs)
+- [Vehicle Info Service](Server%20Code/Services/VehicleInfoService.cs)
+
 ----
 # Shared Code
 - [Constants](Shared%20Code/Constants/)
@@ -115,6 +140,7 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Road Management Item](Shared%20Code/Models/RoadManagementItem.cs)
   - [User Aces](Shared%20Code/Models/UserAces.cs)
   - [User Role](Shared%20Code/Models/UserRole.cs)
+  
 ----
 # To-Do
 - Discord Bot
