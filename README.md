@@ -14,7 +14,7 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [Extensions](#extensions)
   - [Services](#services)
 - [Shared Code](#shared-code)
-- [To-Do](#to-do)
+- [Discord Bot](#discord-bot)
 
 ----
 # Client Side Code
@@ -141,7 +141,6 @@ All code written in this repo was written and created by **Unsociable / Moretti 
   - [User Aces](Shared%20Code/Models/UserAces.cs)
   - [User Role](Shared%20Code/Models/UserRole.cs)
   
-----
-# To-Do
-- Discord Bot
-- Callout System
+---
+# Discord Bot
+  - [Discord Bot](Discord%20Bot/)
